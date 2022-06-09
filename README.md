@@ -1,2 +1,3 @@
 # Lista
- - Lista com JS, HTML e CSS
+ - Lista feita com JS, HTML e CSS;
+ - Apresenta alguns bugs;
